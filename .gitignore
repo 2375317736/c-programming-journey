@@ -1,0 +1,16 @@
+# Compiled programs
+/array_io
+/file_read
+/file_test
+/greeting
+/hello_world
+/name_greet
+/pointer
+/score_calculator
+/student
+/student_record
+/student_record_add
+/student_update
+
+# Local data files
+/student.txt
